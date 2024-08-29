@@ -77,6 +77,7 @@ let data2 = {
         },
     ],
 };
+console.log(data2.data[0].bookDetails.name, data2.data[1].bookCategory );
 
 
 
